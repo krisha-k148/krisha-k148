@@ -14,7 +14,7 @@
 ---
 
 ## 🧰 Tech Stack
-- **Languages:** JavaScript, Java, Python (learning)
+- **Languages:** Java, Python (learning)
 - **Web:** HTML, JavaScript
 - **Tools:** Git, GitHub, VS Code
 - **Interests:** Cybersecurity, Automation, Secure Coding
